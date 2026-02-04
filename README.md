@@ -8,7 +8,7 @@ React (JSX) components in src/
 Tailwind CSS configured via tailwind.config.js
 Example components under src/components/
 Carousel Screenshot
-
+![Portfolio Preview](./screenshoot/screenshoot.png)
 Prerequisites
 
 Node.js 16+ (LTS) and npm or yarn
